@@ -54,8 +54,8 @@ def notice():
 
 	runtxt("\n\033[0;91m YOU ARE NOT PREMIUM USER ")
 	runtxt("\033[0;93m SEND THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
-	runtxt("\033[0;92m ADMIN WHATSAPP >> +923155912839")
-	subprocess.check_output(["am", "start", "https://wa.me/+923155912839"])
+	runtxt("\033[0;92m ADMIN WHATSAPP >> +8801788953189")
+	subprocess.check_output(["am", "start", "https://wa.me/+8801788953189"])
 
 
         
@@ -102,7 +102,7 @@ class Main:
 \033[0;96m#     # #     # #     # ### #     #
 
  > \033[0;92mDEVELOPER     : MAHIN
- > \033[0;95mFACEBOOK ID   : 🤭🤭🤭🤭🤭
+ > \033[0;95mFACEBOOK ID   : MH MAHIN
  > \033[0;41mWHATSAPP      : 👉👌
  \033[0;96m> YOUTUBE       : 🛠️🛠️
  > \033[0;97mWARNING       : KNO SALAI KHARAP KAJE USE KORBI NA     
@@ -375,7 +375,7 @@ class Main:
 			"Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]"
 		])
 		sys.stdout.write(
-			"\r\r %s[>_] [HAMII] : %s/%s -> \033[0;92m [ HAMII-OK:%s ]- \033[0;93m[HAMII-CP:%s ]"%(B,self.loop, len(self.id), len(self.ok), len(self.cp))
+			"\r\r %s[>_] [MAHIN] : %s/%s -> \033[0;92m [ MAHIN-OK:%s ]- \033[0;93m[MAHIN-CP:%s ]"%(B,self.loop, len(self.id), len(self.ok), len(self.cp))
 		); sys.stdout.flush()
 		for pw in pwx:
 			pw = pw.lower()
